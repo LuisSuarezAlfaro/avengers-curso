@@ -4,4 +4,5 @@
 * Red Skull
 * Dr. Suarez
 * Dr. Tobar
-* Campitan America
+* Capitan America
+* Capitan chapulin
